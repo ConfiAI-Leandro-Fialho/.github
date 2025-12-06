@@ -115,3 +115,22 @@ IA não é atalho:
 
 ---
 
+
+🌳 Arquitetura Conceitual — Árvore da Prosperidade
+Além da visão técnica em camadas (Big Tech), a ConfiAI também é representada
+como uma Árvore da Prosperidade, em que:
+
+a raiz é o propósito e o UBK;
+
+o tronco central é formado por UBK, KB Core, CAE e Joe-Agent;
+
+os galhos estruturais são Infra, DevOps, Governance, n8n e Data Core;
+
+os frutos são o LFA, os clientes, os parceiros e os escritórios conectados;
+
+as raízes históricas são o Knowledge Core Legacy (somente leitura e migração).
+
+O fluxograma conceitual completo está em:
+
+profile/ARCHITECTURE_TREE.md
+
