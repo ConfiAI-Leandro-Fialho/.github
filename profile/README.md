@@ -125,3 +125,17 @@ Cada engenheiro ou agente que contribui ajuda a transformar o Direito no Brasil.
 > Construa com responsabilidade. Evolua com consciência.  
 > A árvore agradece cada ramo novo que nasce.
 
+
+🧬 Arquitetura Técnica — Visão Big Tech
+A ConfiAI é organizada como uma plataforma de múltiplas camadas:
+
+Tronco Central Cognitivo: confiai-ubk-spec, confiai-kb-core, confiai-cae-engine, confiai-joe-agent
+
+Anel de Suporte & Plataforma: confiai-infra, confiai-devops, confiai-governance, confiai-n8n-workflows, confiai-data-core
+
+Canal Legacy Controlado: confiai-knowledge-core (apenas leitura, migração histórica)
+
+O fluxograma técnico completo está em:
+
+profile/ARCHITECTURE_BIGTECH.md
+
